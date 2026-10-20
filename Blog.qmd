@@ -1,0 +1,15 @@
+---
+title: "Blog & Notes"
+---
+
+Use this page for short articles, research notes, tutorials, and reflections on your work.
+
+## Example Post
+
+### A Short Introduction to Reproducible Analysis
+
+Write a brief summary of the topic and link to the full post when it is ready.
+
+[Read post](post/example-post.qmd)
+
+Add posts that you are comfortable sharing publicly. Avoid unpublished sensitive data or confidential workplace information.
